@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5a45c9b-32b4-4868-a4f6-17463db2dd2d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music_library_project/music_lib_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_library_project/music_lib_app/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music_library_project/music_lib_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_library_project/music_lib_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Week_06/Projects/hero_project/hero_project/hero_app/urls.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Week_06/Projects/trash_collector_starter/trash_collector" />
   </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
